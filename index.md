@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
-<link href="styles/style.css" rel="stylesheet"/>
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="images/logo.gif" alt="Contest Logo" style="margin-right: 1em; border-radius: 50%; width: 4em; height: 4em;">
   <nav style="display: flex; justify-content: center;">
